@@ -39,4 +39,5 @@ Building real-world QA automation projects and preparing for remote Junior QA Au
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/arhamjamil1
+- GitHub: https://github.com/arhamjamil1
+- LinkedIn: www.linkedin.com/in/muhammad-arham-jamil-10126037b
