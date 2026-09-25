@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Arham 👋
 
-<!--
-**arhamjamil1/arhamjamil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSAI Student | QA Automation Engineer in Training
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- API Testing
+- Postman
+- Pytest
+- Playwright
+- Git & GitHub
+- GitHub Actions
+- CI/CD
+
+## 🧪 QA Automation
+
+I'm building practical automation projects using Python, Pytest, Playwright, and API testing.
+
+## 📂 Featured Project
+
+### RemoteCareer
+QA Automation portfolio containing:
+
+- Python practice
+- SQL
+- API automation
+- Playwright UI automation
+- Page Object Model
+- Pytest fixtures
+- API testing
+- CI/CD with GitHub Actions
+- Automated test reports
+
+## 🎯 Current Goal
+
+Building real-world QA automation projects and preparing for remote Junior QA Automation / SDET opportunities.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/arhamjamil1
